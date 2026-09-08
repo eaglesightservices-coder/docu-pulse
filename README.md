@@ -399,5 +399,6 @@ If you use docu-pulse in your research or project, please cite it as:
 ---
 
 **Give us a ⭐ on GitHub if you find docu-pulse useful!**
+This is just the beginning of a new horizon for the developer community!
 
 [GitHub Repository](https://github.com/eaglesightservices-coder/docu-pulse) • [PyPI Package](https://pypi.org/project/docu-pulse/) • [Issue Tracker](https://github.com/eaglesightservices-coder/docu-pulse/issues)
