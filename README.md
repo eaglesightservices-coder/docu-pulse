@@ -400,5 +400,6 @@ If you use docu-pulse in your research or project, please cite it as:
 
 **Give us a ⭐ on GitHub if you find docu-pulse useful!**
 This is just the beginning of a new horizon for the developer community!
+This project represents the beginning of an ambitious roadmap. There will be accelerated development from early release to a full-featured v1.0 release with zero paywalls. Our goal is to make automated codebase quality accessible to all open-source developers, and to provide the velocity needed to build an active, thriving community.
 
 [GitHub Repository](https://github.com/eaglesightservices-coder/docu-pulse) • [PyPI Package](https://pypi.org/project/docu-pulse/) • [Issue Tracker](https://github.com/eaglesightservices-coder/docu-pulse/issues)
